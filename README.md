@@ -1,2 +1,2 @@
-# PythonによるCSV操作の基本
+# PythonによるCSV操作の基本中の基本
 
